@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551779044849",
+    "project_id": "quiz-app-with-firebase",
+    "storage_bucket": "quiz-app-with-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551779044849:android:f8997a4b0da7ead2e10850",
+        "android_client_info": {
+          "package_name": "com.pranjal.quizappwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551779044849-abu4q72al8enmcro6nrqrinr1mp1n0ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6Rxl4Zo9QOgPjQtCVzOAYKdc1V4lpLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551779044849-abu4q72al8enmcro6nrqrinr1mp1n0ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
